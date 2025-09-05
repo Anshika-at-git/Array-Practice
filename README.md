@@ -1,0 +1,3 @@
+This is the start of my DSA journey...
+In this repository, I am going to upload all the questions, I'll practice of arrays
+Right now, I will upload the basic questions and slowy level it up as I gain knowledge of different data structures and their implementation.
